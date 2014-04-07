@@ -1,0 +1,7 @@
+{
+  "name": "leaflet-bouncemarker",
+  "description": "Bounce animations for Leaflet markers.",
+  "homepage": "https://github.com/simison/leaflet-bouncemarker",
+  "author": "Mikael Korpela <mikael@ihminen.org>",
+  "version": "0.1.0"
+}

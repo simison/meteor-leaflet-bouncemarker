@@ -1,0 +1,3 @@
+[submodule "lib/leaflet.bouncemarker"]
+	path = lib/leaflet.bouncemarker
+	url = https://github.com/maximeh/leaflet.bouncemarker.git
